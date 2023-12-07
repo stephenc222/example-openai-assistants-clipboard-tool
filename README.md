@@ -4,6 +4,8 @@
 
 This project demonstrates how to extend the capabilities of an OpenAI Assistant to interact with the system clipboard, enabling copy and paste operations. The implementation is done in TypeScript and integrates with the OpenAI API.
 
+You can find my companion blog post [here](https://stephencollins.tech/posts/empowering-openai-assistants-shell-command-capabilities).
+
 ## Prerequisites
 
 - Node.js installed on your machine
